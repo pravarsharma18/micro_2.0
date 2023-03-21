@@ -1,0 +1,25 @@
+flask-bcrypt==1.0.1
+flask-marshmallow==0.14.0
+flask-migrate==4.0.4
+marshmallow-sqlalchemy==0.29.0
+mysqlclient==2.1.1
+pika==1.3.1
+pip-chill==1.0.1
+pyjwt==2.6.0
+python-dotenv==1.0.0
+# alembic==1.10.2 # Installed as dependency for flask-migrate
+# bcrypt==4.0.1 # Installed as dependency for flask-bcrypt
+# click==8.1.3 # Installed as dependency for flask
+# flask==2.2.3 # Installed as dependency for flask-sqlalchemy, flask-marshmallow, flask-migrate, flask-bcrypt
+# flask-sqlalchemy==3.0.3 # Installed as dependency for flask-migrate
+# greenlet==2.0.2 # Installed as dependency for sqlalchemy
+# itsdangerous==2.1.2 # Installed as dependency for flask
+# jinja2==3.1.2 # Installed as dependency for flask
+# mako==1.2.4 # Installed as dependency for alembic
+# markupsafe==2.1.2 # Installed as dependency for jinja2, werkzeug, mako
+# marshmallow==3.19.0 # Installed as dependency for marshmallow-sqlalchemy, flask-marshmallow
+# packaging==23.0 # Installed as dependency for marshmallow-sqlalchemy, marshmallow
+# six==1.16.0 # Installed as dependency for flask-marshmallow
+# sqlalchemy==2.0.5.post1 # Installed as dependency for flask-sqlalchemy, marshmallow-sqlalchemy, alembic
+# typing-extensions==4.5.0 # Installed as dependency for sqlalchemy, alembic
+# werkzeug==2.2.3 # Installed as dependency for flask
